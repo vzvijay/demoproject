@@ -1,0 +1,7 @@
+pytest
+selenium
+requests
+jsonpath
+pytest-html
+webdriver-manager
+pytest-depends
