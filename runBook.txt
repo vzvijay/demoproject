@@ -1,0 +1,8 @@
+To install all the packages run
+pip install -r installpackages.txt
+
+To Run Front End test
+pytest Tests/* -v --html=reportFront.html
+
+To Run Api End test
+pytest Tests_Api/* -s --html=reportApi.html
